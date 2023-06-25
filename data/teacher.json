@@ -1,0 +1,5 @@
+[
+  { "teacherid": 1, "name": "Ms Abebe", "email": "abebe@", "password": "1234" },
+  { "id": 2, "name": "Ms Chere", "email": "chere@", "password": "1234" },
+  { "id": 3, "name": "Ms drtyf", "email": "tyuuy@", "password": "1234" }
+]

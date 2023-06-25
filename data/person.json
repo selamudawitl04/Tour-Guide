@@ -1,0 +1,98 @@
+[
+    
+     
+    {
+        "firstName": "Girum",
+        "fatherName": "Dejen",
+        "otherName": "Gobeze",
+        "motherName": "Nigist",
+        "grandFatherName": "Gebremariam",
+        "motherFatherName": "Mekonin",
+        "age": 52,
+        "sex": "M",
+        "coverPhoto": "@/assets/cover-image/GirumDejen.jpg",
+        "weight": 67.9,
+        "height": 1.72,
+        "date": "7/29/2022",
+        "signs": "funny face",
+        "type": "found",
+        "address": {
+            "region": "Amahara",
+            "zone": "Gonder",
+            "town": "Gonder"
+        },
+        "color": "Middle",
+        "user": "6410dfaaab0d903c606aca78"
+    },
+    {
+        "firstName": "Baloto",
+        "fatherName": "Shonigite",
+        "otherName": "Lome",
+        "motherName": "Askale",
+        "grandFatherName": "Biramo",
+        "motherFatherName": "Dojamo",
+        "age": 56,
+        "sex": "F",
+        "coverPhoto": "@/assets/cover-image/BalotoShonigite.jpg",
+
+        "weight": 56.2,
+        "height": 1.71,
+        "date": "3/20/2022",
+        "signs": "sign on left leg",
+        "type": "found",
+        "address": {
+            "region": "Debub",
+            "zone": "Wolayita",
+            "town": "Boditi"
+        },
+        "color": "white",
+        "user": "6410dfaaab0d903c606aca78"
+    },
+    {
+        "firstName": "Tingute",
+        "fatherName": "Beru",
+        "otherName": "Tingu",
+        "motherName": "Lomite",
+        "grandFatherName": "Duressa",
+        "motherFatherName": "Ayano",
+        "age":47,
+        "sex": "F",
+        "coverPhoto": "@/assets/cover-image/TinguteBeru.jpg",
+        "weight": 50.8,
+        "height": 1.6,
+        "date": "12/30/2022",
+        "signs": "sign on left hand",
+        "type": "lost",
+        "address": {
+            "region": "Benishengul",
+            "zone": "Asosa",
+            "town": "Asosa"
+        },
+        "color": "black",
+        "user": "6410dfaaab0d903c606aca78"
+    },
+    {
+        "firstName": "Abidisa",
+        "fatherName": "Chara",
+        "otherName": "Lemma",
+        "motherName": "Almaz",
+        "grandFatherName": "Samuel",
+        "motherFatherName": "Tsegaye",
+        "age":49,
+        "sex": "M",
+        "coverPhoto": "@/assets/cover-image/AbidisaChara.jpg",
+        "weight": 59.3,
+        "height": 1.74,
+        "date": "6/23/2022",
+        "signs": "sign on right hand",
+        "type": "lost",
+        "address": {
+            "region": "Oromia",
+            "zone": "Adama",
+            "town": "Adama"
+        },
+        "color": "Black",
+        "user": "6410dfaaab0d903c606aca78"
+    }
+   
+]
